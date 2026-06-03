@@ -22,7 +22,7 @@ footer {
 }
 
 body {
-  font-family: Barlow Semi Condensed, sans-serif;
+  font-family: "Barlow Semi Condensed", sans-serif;
   width: min(100vw, 15.75rem);
   padding: clamp(1rem, 3vw, 2rem);
   min-height: 100vh;
